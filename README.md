@@ -1,2 +1,2 @@
 # js-table
-Pure JavaScript data tables
+JS + Bootstrap + Font-awesome data table utility
